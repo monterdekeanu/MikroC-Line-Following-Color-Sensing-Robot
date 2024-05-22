@@ -69,7 +69,7 @@ This project is a line-following and color-sensing robot programmed in mikroC an
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the GNU General Public License v2.0. See the [LICENSE](./LICENSE) file for details.
 
 ## Author
 
