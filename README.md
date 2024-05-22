@@ -27,10 +27,6 @@ This project is a line-following and color-sensing robot programmed in mikroC an
 - **mikroC**: Programming language used.
 - **MPLAB**: Compiler used.
 
-## Circuit Diagram
-
-(Include your circuit diagram here if available)
-
 ## Installation and Setup
 
 1. **Clone the Repository**:
@@ -74,7 +70,7 @@ This project is licensed under the GNU General Public License v2.0. See the [LIC
 ## Author
 
 - **Keanu Anthony Monterde**
-
+- monterdekeanu@gmail.com
 ## Acknowledgments
 
 - Special thanks to the developers of mikroC and MPLAB for their tools.
