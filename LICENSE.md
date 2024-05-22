@@ -1,5 +1,5 @@
-<A line-following and color-sensing robot coded in mikroC and compiled with MPLAB. >
-Copyright (C) <2024>  <Keanu Anthony Monterde>
+A line-following and color-sensing robot coded in mikroC and compiled with MPLAB.
+Copyright (C) 2024, Keanu Anthony Monterde
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
